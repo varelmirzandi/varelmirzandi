@@ -1,18 +1,32 @@
-### Hi, I'm Varel Bambang Mirzandi 👋
+# Varel Bambang Mirzandi
 
-D4 Computer Engineering student at **Politeknik Elektronika Negeri Surabaya (PENS)** specializing in **Linux System Administration, Network Infrastructure, Cloud/DevOps, and Embedded/IoT Systems**.
+**D4 Computer Engineering Student @ Politeknik Elektronika Negeri Surabaya (PENS)**  
+Focused on **Linux System Administration**, **Network Infrastructure**, **Cloud/DevOps Automation**, and **Embedded/IoT Systems**.
 
-#### Technical Stack
+---
+
+### Core Technical Skills
 - **Networking & Infrastructure:** Routing & Switching, MikroTik RouterOS (MTCNA Certified), VPN Tunneling, Wireless Networking, Cisco Packet Tracer
-- **Systems & Servers:** Linux Administration (Ubuntu, Debian, CentOS, AlmaLinux, Alpine), DirectAdmin, Web Hosting, Systemd
-- **DevOps & Automation:** Docker, Ansible, Bash Scripting
-- **Programming & Embedded:** C/C++, Python, ESP32/Arduino, Analog Signal Conditioning (LM35, Op-Amp, Low-Pass Filter)
+- **Linux & Server Administration:** Ubuntu, Debian, CentOS, AlmaLinux, Alpine, DirectAdmin, Web Hosting, `systemd`, CLI Troubleshooting
+- **Automation & Containers:** Docker, Ansible, Bash Scripting
+- **Embedded & Programming:** C/C++, Python, ESP32/Arduino, Analog Signal Conditioning (LM35, Op-Amp, Low-Pass Filter)
 
-#### Experience & Highlighted Projects
+---
+
+### Featured Repositories
+- **[`linux-server-automation`](https://github.com/varelmirzandi/linux-server-automation)** — Bash utilities, Ansible playbooks, and Docker configurations for Linux server setup and management.
+- **[`network-infrastructure-labs`](https://github.com/varelmirzandi/network-infrastructure-labs)** — MikroTik RouterOS, VPN tunneling, and network topology lab notes & troubleshooting guides.
+- **[`esp32-temp-monitoring`](https://github.com/varelmirzandi/esp32-temp-monitoring)** — Distributed temperature monitoring node using ESP32, LM35 with analog signal conditioning, and web visualization.
+
+---
+
+### Background Highlights
 - **Network & Server Intern @ APJII Jawa Timur** — Built and configured Node 2 server infrastructure, Wi-Fi/ISP client connectivity, and technical training sessions.
-- **Self-Managed Web Hosting Infrastructure** — Designed integrated hosting services using Linux & DirectAdmin secured via VPN tunneling and routing policies.
-- **ESP32 Distributed Temperature Monitoring** — Built real-time temperature sensing nodes with analog signal conditioning and web dashboard visualization.
+- **Independent Web Hosting Infrastructure** — Designed and managed Linux + DirectAdmin hosting environments secured with routing policies and VPN tunneling.
+- **Certifications & Competitions** — MikroTik Certified Network Associate (MTCNA, valid until 2029); certifications in Linux System Admin, Docker, Ansible, and Cloud Engineering 101; LKS & MikroTik competition achievements.
 
-#### Contact
-- **Email:** varelmirzandi@gmail.com
-- **LinkedIn:** [linkedin.com/in/varel-mirzandi](https://linkedin.com/in/varel-mirzandi)
+---
+
+### Contact
+- **Email:** `varelmirzandi@gmail.com`
+- **GitHub:** [github.com/varelmirzandi](https://github.com/varelmirzandi)
